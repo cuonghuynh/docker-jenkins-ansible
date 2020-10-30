@@ -31,7 +31,7 @@ jenkins/jenkins         lts                 f669140ba6ec        3 weeks ago     
 tag current image
 
 ```
-docker tag f669140ba6ec yourhubusername/jenkins-ansible:1.0.0
+docker tag 6aea3113b10a yourhubusername/jenkins-ansible:1.0.0
 ```
 
 push your image to the repository you created
